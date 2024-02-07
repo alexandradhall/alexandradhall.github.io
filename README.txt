@@ -1,21 +1,16 @@
+This is a portfolio for my business analysis projects in order to learn and demonstrate
+new skills.
+I will be exploring tools and languages such as SQL, Python, Tableau and Power BI.
+
+
+
+
+
+The basis of the website/html for the website are from HTML5 UP with adjustments made
+to display the projects.
 Editorial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
 
 Credits:
 
